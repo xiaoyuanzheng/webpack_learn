@@ -1,0 +1,14 @@
+{
+  "name": "lesson01",
+  "version": "1.0.0",
+  "description": "start webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xiaoyuanzheng",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.3.0"
+  }
+}
